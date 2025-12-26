@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556593100065",
+    "project_id": "historygame-1e366",
+    "storage_bucket": "historygame-1e366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556593100065:android:574ee4431cdfdb8a92fa60",
+        "android_client_info": {
+          "package_name": "app.matsui.nana.historygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556593100065-d05q1qh8ahl7otn65agdn7a688602fgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKyMigbTuW7KnUqex8NLnxu1V5MOWudw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556593100065-d05q1qh8ahl7otn65agdn7a688602fgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
