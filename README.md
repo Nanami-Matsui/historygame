@@ -15,7 +15,15 @@
 
 ## 使用技術
 - Android Studio  
-- Java  
+- Java
+
+ ## スクリーンショット
+
+<img src="screenshots/picture1.png" width="300">
+<img src="screenshots/picture2.png" width="300">
+<img src="screenshots/picture3.png" width="300">
+<img src="screenshots/picture4.png" width="300">
+
 
 ## APKダウンロード
 APKファイルは以下の **Releases** ページからダウンロードできます。
